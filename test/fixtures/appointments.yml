@@ -1,0 +1,13 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  time: MyString
+  integer: MyString
+  physician: one
+  patient: one
+
+two:
+  time: MyString
+  integer: MyString
+  physician: two
+  patient: two
