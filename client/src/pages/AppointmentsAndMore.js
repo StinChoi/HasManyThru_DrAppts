@@ -45,3 +45,5 @@ const AppointmentsAndMore = () => {
   )
 
 }
+
+export default AppointmentsAndMore;
